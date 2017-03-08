@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">FotoAlbum</string>
+    <string name="asistir_evento">Asistir a evento</string>
+    <string name="crear_evento">Crear un evento</string>
+    <string name="nombre_evento">Nombre :</string>
+    <string name="fecha_evento">Crear un evento :</string>
+    <string name="hora_inicio_evento">Hora de inicio :</string>
+    <string name="hora_fin_evento">Hora de termino :</string>
+    <string name="anfitrion_evento">Invita :</string>
+
+
+    <string name="_0">0</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+
+
+
+
 </resources>
